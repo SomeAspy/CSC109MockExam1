@@ -4,7 +4,7 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:/cxxtest-4.4/"
+                "C:/users/aiden/documents/cpp/cxxtest/"
             ],
             "defines": [
                 "_DEBUG",
